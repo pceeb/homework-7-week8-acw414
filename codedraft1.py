@@ -3,7 +3,7 @@
 #this code should be run first using the Fish taxonomy file. 
 #The output will be one file per sample site, which should be used as the input for the R code
 
-#Usage = python2 codedraft.py inputfile
+#Usage = python2 codedraft1.py Fish_taxonomy_file.txt
 
 import re
 import string
