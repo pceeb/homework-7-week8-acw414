@@ -1,6 +1,7 @@
 #!/usr/bin/python2
 
-#This script takes an eDNA output file (with columns of different locations and taxonomy information in the last one), and will extract the species name (if applicable)
+#this code should be run first using the Fish taxonomy file. 
+#The output will be one file per sample site, which should be used as the input for the R code
 
 #Usage = python2 codedraft.py inputfile
 
